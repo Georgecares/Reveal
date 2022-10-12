@@ -492,6 +492,7 @@ body{
 
 .owl-nav{
     display: none;
+   
 }
 
 .port{
@@ -732,7 +733,7 @@ opacity: 65%;
 }
 
 .item{
-  margin-left: 100px;
+  /* margin-left: 100px; */
 }
 .bold{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
